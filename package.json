@@ -1,0 +1,20 @@
+{
+    "name": "keyboard-store",
+    "version": "1.0.0",
+    "description": "Node.js app to manage keyboard store with Docker",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "node",
+        "express",
+        "docker"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.19.2",
+        "mongoose": "^5.13.22"
+    }
+}
